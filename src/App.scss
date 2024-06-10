@@ -1,0 +1,4 @@
+//quick fix, vet ej hur man döljer meny knapp i mobilläge
+header .sc-digi-header .digi-header__logo div:nth-child(2) {
+  display: none;
+}
